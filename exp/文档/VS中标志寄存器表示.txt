@@ -1,0 +1,9 @@
+VS中标志寄存器表示
+溢出标志OF(Over flow flag)                             OV(1)                         NV(0)
+方向标志DF(Direction flag)                             DN(1)                         UP(0)
+中断标志IF(Interrupt flag)                             EI(1)                         DI(0)
+符号标志SF(Sign flag)                                  NG(1)                         PL(0)
+零标志ZF(Zero flag)                                    ZR(1)                         NZ(0)
+辅助标志AF(Auxiliary carry flag)                       AC(1)                         NA(0)
+奇偶标志PF(Parity flag)                                PE(1)                         PO(0)
+进位标志CF(Carry flag)                                 CY(1)                         NC(0)
